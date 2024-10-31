@@ -1,0 +1,44 @@
+.paginate{
+    padding: 20px;
+    margin: 5px;
+    background-color: #fff;
+}
+
+/*all the links and elements*/
+.paginate *{
+    margin: 2px;
+    padding: 2px 5px;
+    text-decoration: none;  
+    display: inline-block;
+    font-weight: 600;
+    text-decoration: none;
+}
+
+/*page links*/
+.paginate a{
+    color: #05659c;
+}
+/*page links, disabled*/
+.paginate span{
+}
+
+/*previous page link*/
+.paginate .prev{
+}
+/*current page link*/
+.paginate .current{
+    background-color: #50aed5 ;
+}
+/*next page link*/
+.paginate .next{
+}
+
+/*first page link*/
+.paginate .first{
+}
+/*last page link*/
+.paginate .last{
+}
+/*dots after first page, and donts before last page*/
+.paginate .dots{
+}

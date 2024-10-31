@@ -1,0 +1,40 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Paginate\n"
+"POT-Creation-Date: 2013-08-01 09:01+0100\n"
+"PO-Revision-Date: 2013-08-01 09:01+0100\n"
+"Last-Translator: \n"
+"Language-Team:  <ivan82@gmail.com>\n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: /Users/ivan/NetBeansProjects/Wordpress/wp-content/"
+"plugins/paginate\n"
+
+#: /Users/ivan/NetBeansProjects/Wordpress/wp-content/plugins/paginate/paginate.php:125
+#: /Users/ivan/NetBeansProjects/Wordpress/wp-content/plugins/paginate/paginate.php:127
+msgid "prev"
+msgstr ""
+
+#: /Users/ivan/NetBeansProjects/Wordpress/wp-content/plugins/paginate/paginate.php:133
+msgid "first"
+msgstr ""
+
+#: /Users/ivan/NetBeansProjects/Wordpress/wp-content/plugins/paginate/paginate.php:139
+#: /Users/ivan/NetBeansProjects/Wordpress/wp-content/plugins/paginate/paginate.php:158
+msgid "..."
+msgstr ""
+
+#: /Users/ivan/NetBeansProjects/Wordpress/wp-content/plugins/paginate/paginate.php:163
+msgid "last"
+msgstr ""
+
+#: /Users/ivan/NetBeansProjects/Wordpress/wp-content/plugins/paginate/paginate.php:170
+#: /Users/ivan/NetBeansProjects/Wordpress/wp-content/plugins/paginate/paginate.php:172
+msgid "next"
+msgstr ""
